@@ -2,7 +2,7 @@ APIJUANN
 1º DAW. Curso 2024-2025. 
 Este es mi proyecto CRUD de inventario para una librería de DAW, denominado “libdaw”.
 
-INSTRUCCIONES PARA EJECUTAR EL PROGRAMA:
+INSTRUCCIONES PARA EJECUTAR EL PROGRAMA
 
 PÁGINA DE INICIO DE SESIÓN (LOGIN)
 Para acceder, introduzca el usuario y contraseña facilitados.
@@ -24,10 +24,10 @@ Tiene un botón en la esquina superior izquierda para volver al CRUD de Libros y
 Al añadir un nuevo registro y guardarlo, se le redirigirá a la primera página del CRUD de Libros y podrá ver cómo cambia el número total de registros; en este caso, de 15 a 16. 
 El nuevo registro se coloca en la última fila y en la última página.
 
-El último registro también aparece en la lista de inicio, ver la última página:
+El último registro también aparece en la lista de inicio, ver la última página.
 
 EDITAR
-Al guardar el cambio XXX Don Quijote de la Mancha, se aplica al CRUD de libros, al inicio y a la base de datos:
+Al guardar el cambio XXX Don Quijote de la Mancha, se aplica al CRUD de libros, al inicio y a la base de datos.
 
 Dejo la opción de eliminar para después de insertar un inventario.
 
